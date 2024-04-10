@@ -1,3 +1,5 @@
+https://teddysun.com/392.html
+
 # Deprecated
 
 Use https://github.com/shadowsocks/go-shadowsocks2 instead.
